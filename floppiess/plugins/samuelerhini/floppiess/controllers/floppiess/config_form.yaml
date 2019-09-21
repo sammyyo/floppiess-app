@@ -1,0 +1,10 @@
+name: Floppiess
+form: $/samuelerhini/floppiess/models/floppies/fields.yaml
+modelClass: Samuelerhini\Floppiess\Models\Floppies
+defaultRedirect: samuelerhini/floppiess/floppiess
+create:
+    redirect: 'samuelerhini/floppiess/floppiess/update/:id'
+    redirectClose: samuelerhini/floppiess/floppiess
+update:
+    redirect: samuelerhini/floppiess/floppiess
+    redirectClose: samuelerhini/floppiess/floppiess

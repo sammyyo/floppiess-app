@@ -1,0 +1,11 @@
+plugin:
+    name: 'samuelerhini.floppiess::lang.plugin.name'
+    description: 'samuelerhini.floppiess::lang.plugin.description'
+    author: SamuelErhini
+    icon: oc-icon-cart-plus
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Floppiess
+        url: samuelerhini/floppiess/floppiess
+        icon: icon-cart-plus
